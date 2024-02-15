@@ -5,7 +5,7 @@ import { Checker } from 'cypress/support/checker'
 import { Helpers } from 'cypress/support/helpers'
 import { Navigation } from 'cypress/support/navigation'
 import { user } from 'cypress/support/registration.data.json'
-import { format } from 'util'
+import { format } from 'util' 
 
 
 describe('Register / login / logout users', () => {
