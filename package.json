@@ -4,7 +4,7 @@
   "description": "cypress workshops",
   "main": "cypress.config.js",
   "scripts": {
-    "start": "npx cypress run --record --key df5cbd9b-7fbe-4b66-af67-a5c964eca5f1"
+    "start": "npx cypress run --record --key 61d4bb46-f44e-45f1-abab-85e3d93184e9"
 
   },
   "keywords": [
